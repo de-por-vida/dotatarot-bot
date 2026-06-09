@@ -11,7 +11,3 @@ Telegram-бот с картами Таро на основе героев Dota 2
 Python • aiogram 3 • aiosqlite • OpenDota API
 
 
-## Скриншоты
-
-![Карта дня](https://ibb.co/8nhKZYnz)
-![Коллекция карт](https://ibb.co/8gg39Xr8)
