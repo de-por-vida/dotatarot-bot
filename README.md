@@ -1,3 +1,4 @@
+## Dota 2 Tarot Bot
 
 Telegram-бот с картами Таро на основе героев Dota 2.
 
