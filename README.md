@@ -1,4 +1,3 @@
-<img width="851" height="807" alt="image" src="https://github.com/user-attachments/assets/ffd8d640-a4ac-4eb4-be60-72d97b108311" /># dota2tarot-bot
 
 Telegram-бот с картами Таро на основе героев Dota 2.
 
